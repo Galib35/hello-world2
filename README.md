@@ -1,2 +1,4 @@
 # hello-world2
-My first repository in GITHUB
+
+I don't like  coding. Coding is kinda boring bitch.
+bye! 
